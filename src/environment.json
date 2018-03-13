@@ -1,0 +1,14 @@
+{
+    "auth": {
+      "tenantConfig": {
+        "tenant": "merken.onmicrosoft.com",
+        "clientID": "454caa98-b525-4c00-8e01-fc1e7bf477e4",
+        "signInPolicy": "B2C_1_mrkn_Si",
+        "b2cScopes": [
+          "https://merken.onmicrosoft.com/authapp/read_write"
+        ]
+      },
+      "authRedirectUri": ""
+    }
+  }
+  
